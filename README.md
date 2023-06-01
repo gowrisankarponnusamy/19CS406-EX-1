@@ -3,7 +3,7 @@
 ### DATE ::08-03-2023
 
 ### AIM :
-        To implement socket programming date and time display from client to server using TCPSockets.
+   To implement socket programming date and time display from client to server using TCPSockets.
 
 ALGORITHM :
 
