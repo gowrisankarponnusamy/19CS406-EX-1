@@ -57,9 +57,10 @@ print(s.recv(1024).decode())
 s.send("acknowledgement recived from the server".encode())
 ```
 ### OUTPUT:
+### Server:
 ![Screenshot (23)](https://github.com/gowrisankarponnusamy/19CS406-EX-1/assets/119393123/f8b194bd-7571-4a97-952d-a6743452f4ba)
+### Client:
 ![Screenshot (24)](https://github.com/gowrisankarponnusamy/19CS406-EX-1/assets/119393123/f42f8c67-5112-4c54-b7c5-8ee821d767e4)
 
 ### RESULT:
-Thus, the program to implement socket programming date and time display from client to server
-using TCP Sockets was successfully executed.
+Thus, the program to implement socket programming date and time display from client to server using TCP Sockets was successfully executed.
